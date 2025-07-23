@@ -1,0 +1,10 @@
+# Ignore virtual environment
+tinyenv/
+
+# Ignore dataset
+data/
+
+# Ignore cache and logs
+__pycache__/
+*.log
+*.pyc
